@@ -39,6 +39,12 @@ El propósito final es proporcionar una visión estratégica que permita tomar d
 
 Este proyecto ha brindado una visión integral del mercado global de videojuegos, permitiendo comprender mejor el comportamiento de los consumidores según la región. Los perfiles de ventas generados permiten optimizar la toma de decisiones estratégicas y mejorar la competitividad en distintas áreas geográficas.
 
+## 📫 Contacto
+
+César Eduardo Cruz Cabrera  
+📧 cesareduardocruzcabrera@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/cesar-eduardo-cruz-cabrera)
+
 ---
 
 🔎 _Este proyecto fue desarrollado como parte de mi formación en análisis de datos, utilizando herramientas como Python, Pandas, Matplotlib y Seaborn._
